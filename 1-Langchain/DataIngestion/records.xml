@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+  <student id="101">
+    <name>Pratham</name>
+    <course>B.Tech</course>
+    <department>IT</department>
+  </student>
+  <student id="102">
+    <name>Rahul</name>
+    <course>B.Tech</course>
+    <department>CSE</department>
+  </student>
+</records>
